@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226902099682",
+    "project_id": "crud-firebase-cf533",
+    "storage_bucket": "crud-firebase-cf533.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226902099682:android:a62cf81c980213336940bb",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY7eLKoFFvZGng41qT_OxJXqe8agea3io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
